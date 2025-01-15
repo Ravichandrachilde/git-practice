@@ -1,1 +1,2 @@
-created a new file for git practice 
+created a new file for git practice
+added a new line  
