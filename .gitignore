@@ -1,6 +1,6 @@
 *.py
 *.java
 [iand]*.html
-
+!ravi.py
 ignore these files
 
