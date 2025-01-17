@@ -1,4 +1,6 @@
 *.py
 *.java
+[iand]*.html
+
 ignore these files
 
